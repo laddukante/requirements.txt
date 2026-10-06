@@ -1,1 +1,6 @@
+pyrogram
+tgcrypto
+playwright
+aiohttp
+aiogram
 
